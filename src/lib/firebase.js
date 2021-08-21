@@ -2,7 +2,7 @@ import Firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 
-// here is where I want to import the sed file
+// here is where I want to import the seed file
 
 const config = {};
 
