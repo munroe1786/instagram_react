@@ -4,6 +4,8 @@ import 'firebase/auth';
 
 // here is where I want to import the seed file
 
+import { seedDatabase } from '../seed';
+
 const config = {
   apiKey: 'AIzaSyBCNOLK5jyBMKNXOi-yFvHUfJNDJy3YsRM',
   authDomain: 'instagram-31a21.firebaseapp.com',
